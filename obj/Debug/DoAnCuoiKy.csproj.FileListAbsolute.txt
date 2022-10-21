@@ -1,0 +1,14 @@
+C:\Users\halle\OneDrive\Desktop\C#\DOAN\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+C:\Users\halle\OneDrive\Desktop\C#\DOAN\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+C:\Users\halle\OneDrive\Desktop\C#\DOAN\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+C:\Users\halle\OneDrive\Desktop\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+C:\Users\halle\OneDrive\Desktop\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\halle\OneDrive\Desktop\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+C:\Users\halle\OneDrive\Desktop\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+C:\Users\halle\OneDrive\Desktop\BT\C#\DOAN\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+C:\Users\halle\OneDrive\Desktop\BT\C#\DOAN\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+C:\Users\halle\OneDrive\Desktop\BT\C#\DOAN\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+C:\Users\halle\OneDrive\Desktop\BT\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+C:\Users\halle\OneDrive\Desktop\BT\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\halle\OneDrive\Desktop\BT\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+C:\Users\halle\OneDrive\Desktop\BT\C#\DOAN\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
